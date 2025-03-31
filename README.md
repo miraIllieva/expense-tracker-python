@@ -1,2 +1,1 @@
-# expense-tracker-python
-A simple expense tracker app using Python and SQLite. Users can add and view expenses through a console menu. Data is stored in a local database
+A simple and lightweight expense tracker app built using Python and SQLite. Users can add and view their daily expenses through an interactive console-based menu. Data is stored locally in a SQLite database. This project demonstrates the use of Python functions, loops, and database interaction using SQL queries with the built-in sqlite3 module. It also includes a basic menu-driven interface that allows users to choose between adding new entries, viewing saved expenses, or exiting the application. Ideal for beginners learning how to work with Python and databases
